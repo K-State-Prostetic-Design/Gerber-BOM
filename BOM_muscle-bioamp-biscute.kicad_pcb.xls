@@ -1,0 +1,17 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,KiLib_Generator
+"C1, C1, C3, C3, C5, C5",6,1nF,C_Disc_D3.8mm_W2.6mm_P2.50mm,,,,tht,
+"C10, C10",2,470uF,CP_Radial_D5.0mm_P2.50mm,,,,tht,
+"C2, C2",2,4.7nF,C_Disc_D3.8mm_W2.6mm_P2.50mm,,,,tht,
+"C4, C4, C7, C7, C9, C9",6,100nF,C_Disc_D3.8mm_W2.6mm_P2.50mm,,,,tht,
+"C8, C8",2,2.2uF,CP_Radial_D5.0mm_P2.50mm,,,,tht,
+"H1, H2, H3, H4",4,MountingHole,MountingHole_2.2mm_M2,,,,tht,mounting_hardware/mounting_hole
+"J1, J1",2,IO,PinHeader_1x03_P2.54mm_Vertical,,,,tht,
+"J2, J2",2,BioAmp_input,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,,,,tht,
+"R1, R1, R5, R5",4,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,
+"R10, R10",2,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,
+"R2, R2, R4, R4",4,100k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,
+"R3, R3, R6, R6",4,330R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,
+"R7, R7, R8, R8",4,1M,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,
+"R9, R9",2,220k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,
+"U1, U1",2,Amp,DIP-14_W7.62mm_LongPads,,,,tht,
+U2,1,XIAO-ESP32-S3-SMD,XIAO-ESP32-S3-DIP,,,,smt,
